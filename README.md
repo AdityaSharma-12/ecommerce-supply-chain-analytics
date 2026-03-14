@@ -31,4 +31,4 @@ Built a robust **Snowflake Schema** connecting over 100,000 real-world order lif
 ## 📂 Files Included
 - `Ecommerce_Dashboard_Template.pbit`: The complete Power BI project file (requires Power BI Desktop to open).
 - `Dashboard_Export.pdf`: A static PDF export of the final dashboard pages.
-- `Datase`t:https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- `Dataset`:https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
