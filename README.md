@@ -23,12 +23,11 @@ Built a robust **Snowflake Schema** connecting over 100,000 real-world order lif
 
 ### 1. Executive Command Center
 *(Provides a high-level view of revenue trends, total orders, and geographical performance)*
-![Insert your Page 1 Screenshot here](link_to_your_image_here)
+(01_executive_command_center.png)
 
 ### 2. Customer Experience Analysis
 *(Maps the direct correlation between delivery days and review scores, highlighting worst-offending sellers)*
-![Insert your Page 2 Screenshot here](link_to_your_image_here)
-
+(02_customer_experience.png
 ## 📂 Files Included
 - `E-Commerce_Analytics.pbix`: The complete Power BI project file (requires Power BI Desktop to open).
 - `Dashboard_Export.pdf`: A static PDF export of the final dashboard pages.
