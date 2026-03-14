@@ -29,5 +29,6 @@ Built a robust **Snowflake Schema** connecting over 100,000 real-world order lif
 *(Maps the direct correlation between delivery days and review scores, highlighting worst-offending sellers)*
 (02_customer_experience.png
 ## 📂 Files Included
-- `E-Commerce_Analytics.pbix`: The complete Power BI project file (requires Power BI Desktop to open).
+- `Ecommerce_Dashboard_Template.pbit`: The complete Power BI project file (requires Power BI Desktop to open).
 - `Dashboard_Export.pdf`: A static PDF export of the final dashboard pages.
+- Dataset:https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
